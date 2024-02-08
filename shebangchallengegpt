@@ -1,0 +1,9 @@
+# Input asking the user's name
+name = input("What's your name? ")
+
+# Input asking what day of the week it is
+day_of_the_week = input("What day of the week is it today? ")
+
+# Print statement
+print(f"Hello, {name}! Happy {day_of_the_week}!")
+
