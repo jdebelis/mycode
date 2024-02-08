@@ -16,6 +16,18 @@ def main():
     # get 'vendor name' with device
     vendor =input("Input vendors name: ")
     print(vendor)
-  
+
+    # Vendor name of your device
+    device = input("What is the name of your device?" )
+    print(device)
+
+    # amount of gigs on device?
+    space = input("How many gigs are on your device?" )
+    print(space)
+
+    # color of device
+    color = input("what color is the device?")
+    print("You told me the color is:", color)
+
 main()
 
